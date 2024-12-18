@@ -1,5 +1,4 @@
 import "./Funcionarios.css"
-import dados from "./assets/ufjf-dcc207-2024-3-a-atv05.json"
 
 interface FuncionarioProps {
     funcionario: any
